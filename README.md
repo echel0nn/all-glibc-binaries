@@ -1,8 +1,6 @@
-# all-glibc-binaries
-glibc collection direct download links
 
 
-## Direct download links  glibc versions for everyone and more
+# Direct download links  glibc versions for everyone and more
 
 - LINKS
   - GLIBC-2.23
