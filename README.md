@@ -40,7 +40,6 @@
   - GLIBC-2.27 __UBUNTU 18.04__
     - [ld-2.27.so](https://devilinside.me/static/glibc/glibc_2.27_ubuntu1804/ld-2.27.so)
     - [libc-2.27.so](https://devilinside.me/static/glibc/glibc_2.27_ubuntu1804/libc-2.27.so)
-    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.27_ubuntu1804/malloc/malloc.c)
   - GLIBC-2.28
     - [ld-2.28.so](https://devilinside.me/static/glibc/glibc_2.28/ld-2.28.so)
     - [libc-2.28.so](https://devilinside.me/static/glibc/glibc_2.28/libc-2.28.so)
@@ -60,7 +59,6 @@
   - GLIBC-2.29 __UBUNTU 19.04__
     - [ld-2.29.so](https://devilinside.me/static/glibc/glibc_2.29_ubuntu1904/ld-2.29.so)
     - [libc-2.29.so](https://devilinside.me/static/glibc/glibc_2.29_ubuntu1904/libc-2.29.so)
-    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.29_ubuntu1904/malloc/malloc.c)
   - GLIBC-2.30
     - [ld-2.30.so](https://devilinside.me/static/glibc/glibc_2.30/ld-2.30.so)
     - [libc-2.30.so](https://devilinside.me/static/glibc/glibc_2.30/libc-2.30.so)
