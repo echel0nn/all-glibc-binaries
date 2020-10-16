@@ -1,2 +1,81 @@
 # all-glibc-binaries
 glibc collection direct download links
+
+
+## Direct download links  glibc versions for everyone and more
+
+- LINKS
+  - GLIBC-2.23
+    - [ld-2.23.so](https://devilinside.me/static/glibc/glibc_2.23/ld-2.23.so)
+    - [libc-2.23.so](https://devilinside.me/static/glibc/glibc_2.23/glibc_2.23/libc-2.23.so)
+    - [LIBIO/genops.c](https://devilinside.me/static/glibc/glibc_2.23/glibc_2.23/libio/genops.c)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.23/glibc_2.23/malloc/malloc.c)
+  - GLIBC-2.23 __UNSAFE-UNLINK__
+    - [ld-2.23.so](https://devilinside.me/static/glibc/glibc_2.23_unsafe-unlink/ld-2.23.so)
+    - [libc-2.23.so](https://devilinside.me/static/glibc/glibc_2.23_unsafe-unlink/libc-2.23.so)
+    - [LIBIO/genops.c](https://devilinside.me/static/glibc/glibc_2.23_unsafe-unlink/libio/genops.c)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.23_unsafe-unlink/malloc/malloc.c)
+  - GLIBC-2.24
+    - [ld-2.24.so](https://devilinside.me/static/glibc/glibc_2.24/ld-2.24.so)
+    - [libc-2.24.so](https://devilinside.me/static/glibc/glibc_2.24/libc-2.24.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.24/malloc/malloc.c)
+  - GLIBC-2.25
+    - [ld-2.25.so](https://devilinside.me/static/glibc/glibc_2.25/ld-2.25.so)
+    - [libc-2.25.so](https://devilinside.me/static/glibc/glibc_2.25/libc-2.25.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.25/malloc/malloc.c)
+  - GLIBC-2.26
+    - [ld-2.26.so](https://devilinside.me/static/glibc/glibc_2.26/ld-2.26.so)
+    - [libc-2.26.so](https://devilinside.me/static/glibc/glibc_2.26/libc-2.26.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.26/malloc/malloc.c)
+  - GLIBC-2.26 __NO TCACHE__
+    - [ld-2.26.so](https://devilinside.me/static/glibc/glibc_2.26_no-tcache/ld-2.26.so)
+    - [libc-2.26.so](https://devilinside.me/static/glibc/glibc_2.26_no-tcache/libc-2.26.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.26_no-tcache/malloc/malloc.c)
+  - GLIBC-2.27
+    - [ld-2.27.so](https://devilinside.me/static/glibc/glibc_2.27/ld-2.27.so)
+    - [libc-2.27.so](https://devilinside.me/static/glibc/glibc_2.27/libc-2.27.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.26/malloc/malloc.c)
+  - GLIBC-2.27 __NO TCACHE__
+    - [ld-2.27.so](https://devilinside.me/static/glibc/glibc_2.27_no-tcache/ld-2.27.so)
+    - [libc-2.27.so](https://devilinside.me/static/glibc/glibc_2.27_no-tcache/libc-2.27.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.27_no-tcache/malloc/malloc.c)
+  - GLIBC-2.27 __UBUNTU 18.04__
+    - [ld-2.27.so](https://devilinside.me/static/glibc/glibc_2.27_ubuntu1804/ld-2.27.so)
+    - [libc-2.27.so](https://devilinside.me/static/glibc/glibc_2.27_ubuntu1804/libc-2.27.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.27_ubuntu1804/malloc/malloc.c)
+  - GLIBC-2.28
+    - [ld-2.28.so](https://devilinside.me/static/glibc/glibc_2.28/ld-2.28.so)
+    - [libc-2.28.so](https://devilinside.me/static/glibc/glibc_2.28/libc-2.28.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.28/malloc/malloc.c)
+  - GLIBC-2.28 __NO TCACHE__
+    - [ld-2.28.so](https://devilinside.me/static/glibc/glibc_2.28_no-tcache/ld-2.28.so)
+    - [libc-2.28.so](https://devilinside.me/static/glibc/glibc_2.28_no-tcache/libc-2.28.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.28_no-tcache/malloc/malloc.c)
+  - GLIBC-2.29
+    - [ld-2.29.so](https://devilinside.me/static/glibc/glibc_2.29/ld-2.29.so)
+    - [libc-2.29.so](https://devilinside.me/static/glibc/glibc_2.29/libc-2.29.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.29/malloc/malloc.c)
+  - GLIBC-2.29 __NO TCACHE__
+    - [ld-2.29.so](https://devilinside.me/static/glibc/glibc_2.29_no-tcache/ld-2.29.so)
+    - [libc-2.29.so](https://devilinside.me/static/glibc/glibc_2.29_no-tcache/libc-2.29.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.29_no-tcache/malloc/malloc.c)
+  - GLIBC-2.29 __UBUNTU 19.04__
+    - [ld-2.29.so](https://devilinside.me/static/glibc/glibc_2.29_ubuntu1904/ld-2.29.so)
+    - [libc-2.29.so](https://devilinside.me/static/glibc/glibc_2.29_ubuntu1904/libc-2.29.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.29_ubuntu1904/malloc/malloc.c)
+  - GLIBC-2.30
+    - [ld-2.30.so](https://devilinside.me/static/glibc/glibc_2.30/ld-2.30.so)
+    - [libc-2.30.so](https://devilinside.me/static/glibc/glibc_2.30/libc-2.30.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.30/malloc/malloc.c)
+  - GLIBC-2.30 __NO TCACHE__
+    - [ld-2.30.so](https://devilinside.me/static/glibc/glibc_2.30_no-tcache/ld-2.30.so)
+    - [libc-2.30.so](https://devilinside.me/static/glibc/glibc_2.30_no-tcache/libc-2.30.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.30_no-tcache/malloc/malloc.c)
+  - GLIBC-2.31
+    - [ld-2.31.so](https://devilinside.me/static/glibc/glibc_2.31/ld-2.31.so)
+    - [libc-2.31.so](https://devilinside.me/static/glibc/glibc_2.31/libc-2.31.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.31/malloc/malloc.c)
+  - GLIBC-2.31 __NO TCACHE__
+    - [ld-2.31.so](https://devilinside.me/static/glibc/glibc_2.31_no-tcache/ld-2.31.so)
+    - [libc-2.31.so](https://devilinside.me/static/glibc/glibc_2.31_no-tcache/libc-2.31.so)
+    - [MALLOC/malloc.c](https://devilinside.me/static/glibc/glibc_2.31_no-tcache/malloc/malloc.c)
